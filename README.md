@@ -1,7 +1,7 @@
 ## Olá, eu sou Thiago Falasca, bem-vindo ao meu github!
 <div align="center">
   <a href="https://github.com/thiagofalasca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofalasca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width=48% height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofalasca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width=48% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofalasca&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
