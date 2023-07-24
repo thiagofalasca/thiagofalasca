@@ -1,4 +1,4 @@
-## Olá, eu sou Thiago Falasca, bem-vindo ao meu github!
+## Hello, I am Thiago Falasca, welcome to my GitHub!
 <div align="center">
   <a href="https://github.com/thiagofalasca">
   <img width=48% height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofalasca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
